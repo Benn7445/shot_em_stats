@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Shot_Em_Stats:jar">
+    <output-path>$USER_HOME$/Desktop/minecraft/plugins</output-path>
+    <root id="archive" name="Shot_Em_Stats.jar">
+      <element id="module-output" name="Shot_Em_Stats" />
+    </root>
+  </artifact>
+</component>
